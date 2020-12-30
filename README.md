@@ -16,3 +16,4 @@ B. News on reference applications like:
 - eShopUWP: https://github.com/dotnet-architecture/eShopOnUWP
 - eShopOnContainersAI: https://github.com/dotnet-architecture/eShopOnContainersAI
 - Other samples under https://github.com/dotnet-architecture
+#2
